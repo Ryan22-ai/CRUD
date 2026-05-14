@@ -1,5 +1,5 @@
-CRUD de Usuários
-Este é um projeto simples de Cadastro de Usuários (CRUD) desenvolvido com HTML, CSS e JavaScript puro (Vanilla JS). O sistema permite gerenciar uma lista de pessoas, oferecendo funcionalidades de criação, edição, remoção, busca e ordenação.
+**CRUD de Usuários**<br>
+*Este é um projeto simples de Cadastro de Usuários (CRUD) desenvolvido com HTML, CSS e JavaScript puro (Vanilla JS). O sistema permite gerenciar uma lista de pessoas, oferecendo funcionalidades de criação, edição, remoção, busca e ordenação.*
 
 🚀 Funcionalidades
 Criar: Adicione novos usuários com nome e idade.
